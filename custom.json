@@ -836,7 +836,7 @@
         {
           "name": "SparkFun AVR Boards",
           "architecture": "avr",
-          "version": "13.0.0",
+          "version": "1.2.0",
           "category": "Contributed",
           "url": "https://github.com/Inter129/SpoofArduino/raw/main/avr.tar.bz2",
           "archiveFileName": "avr.tar.bz2",
