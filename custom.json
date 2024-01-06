@@ -839,6 +839,7 @@
           "version": "1.2.0",
           "category": "Contributed",
           "url": "https://github.com/Inter129/SpoofArduino/raw/main/avr.tar.bz2",
+          "checksum": "SHA-256:7330fb50537ea0616cda4ef77e715df166e5651b4b9d9135c339c06d784e747c",
           "archiveFileName": "avr.tar.bz2",
           "help": {
             "online": "https://forums.sparkfun.com"
