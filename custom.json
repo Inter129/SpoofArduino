@@ -836,12 +836,10 @@
         {
           "name": "SparkFun AVR Boards",
           "architecture": "avr",
-          "version": "1.1.13",
+          "version": "13.0.0",
           "category": "Contributed",
           "url": "https://github.com/Inter129/SpoofArduino/raw/main/avr.tar.bz2",
           "archiveFileName": "avr.tar.bz2",
-          "checksum": "SHA-256:DFF8657CB7EC8D88E257E9F0C4A23A8AAE1CB76DFAED34456F52E5681C0483CC",
-          "size": "4226560",
           "help": {
             "online": "https://forums.sparkfun.com"
           },
